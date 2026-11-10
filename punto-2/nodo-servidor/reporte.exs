@@ -140,7 +140,7 @@ defmodule Reporte do
 
     [
       "ciudad: #{ciudad.nombre} (#{ciudad.id})",
-      "habilidades: #{ciudad.habitantes}",
+      "habitantes: #{ciudad.habitantes}",
       "movimientos registrados:",
       generar_detalle(movimientos_ciudad),
       "total del movimiento: #{cantidad}",
