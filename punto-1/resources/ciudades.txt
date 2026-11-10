@@ -1,0 +1,8 @@
+C01@Armenia@304314
+C02@Circasia@78684
+C03@SantaMarta@30941
+
+C04@Manizales@cero
+C05@@45000
+C06@barcelona
+C07@Filandia@-5
